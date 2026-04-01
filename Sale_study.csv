@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_ID,City,Product,Category,Quantity,Price,Discount_%,Total_Amount,Payment_Method
+ORD2000,2025-01-29,CUST1000,Delhi,Tablet,Accessories,3,15521,0,46563.0,Cash
+ORD2001,2025-02-11,CUST1001,Hyderabad,Tablet,Accessories,3,8681,15,22136.55,Cash
+ORD2002,2025-01-02,CUST1002,Mumbai,Mobile,Accessories,1,40764,0,40764.0,Debit Card
+ORD2003,2025-02-04,CUST1003,Bangalore,Headphones,Electronics,4,59575,15,202555.0,Cash
+ORD2004,2025-01-04,CUST1004,Chennai,Headphones,Electronics,4,22180,0,88720.0,Cash
+ORD2005,2025-01-11,CUST1005,Bangalore,Tablet,Electronics,1,17200,10,15480.0,Cash
+ORD2006,2025-01-09,CUST1006,Chennai,Mobile,Accessories,4,78787,15,267875.8,Credit Card
+ORD2007,2025-02-27,CUST1007,Delhi,Headphones,Accessories,3,28191,0,84573.0,Cash
+ORD2008,2025-01-06,CUST1008,Delhi,Smartwatch,Electronics,5,13275,15,56418.75,Cash
+ORD2009,2025-01-05,CUST1009,Hyderabad,Laptop,Accessories,3,67787,0,203361.0,Debit Card
+ORD2010,2025-02-25,CUST1010,Mumbai,Laptop,Electronics,1,44947,5,42699.65,Credit Card
+ORD2011,2025-01-29,CUST1011,Mumbai,Mobile,Electronics,4,33833,15,115032.2,Cash
+ORD2012,2025-02-13,CUST1012,Delhi,Laptop,Electronics,4,66676,15,226698.4,UPI
+ORD2013,2025-01-11,CUST1013,Bangalore,Headphones,Electronics,4,2663,15,9054.2,UPI
+ORD2014,2025-01-25,CUST1014,Delhi,Smartwatch,Accessories,3,11543,15,29434.65,Net Banking
+ORD2015,2025-01-04,CUST1015,Hyderabad,Tablet,Electronics,2,65587,10,118056.6,UPI
+ORD2016,2025-02-26,CUST1016,Hyderabad,Headphones,Electronics,3,34294,5,97737.9,Net Banking
+ORD2017,2025-02-05,CUST1017,Hyderabad,Mobile,Accessories,3,78815,15,200978.25,UPI
+ORD2018,2025-01-20,CUST1018,Mumbai,Smartwatch,Electronics,5,2003,15,8512.75,UPI
+ORD2019,2025-01-27,CUST1019,Bangalore,Laptop,Electronics,5,50222,0,251110.0,Debit Card
+ORD2020,2025-01-09,CUST1020,Bangalore,Laptop,Accessories,5,34282,0,171410.0,Credit Card
+ORD2021,2025-02-25,CUST1021,Mumbai,Headphones,Electronics,1,59405,0,59405.0,Debit Card
+ORD2022,2025-01-30,CUST1022,Mumbai,Mobile,Electronics,5,54028,0,270140.0,UPI
+ORD2023,2025-01-02,CUST1023,Bangalore,Mobile,Accessories,3,69156,10,186721.2,Net Banking
+ORD2024,2025-01-01,CUST1024,Hyderabad,Laptop,Electronics,1,12564,10,11307.6,Debit Card
+ORD2025,2025-01-11,CUST1025,Bangalore,Smartwatch,Accessories,5,41352,10,186084.0,UPI
+ORD2026,2025-02-08,CUST1026,Mumbai,Mobile,Accessories,3,36541,15,93179.55,Net Banking
+ORD2027,2025-01-18,CUST1027,Delhi,Headphones,Electronics,2,18001,15,30601.7,Credit Card
+ORD2028,2025-01-15,CUST1028,Delhi,Tablet,Electronics,4,68520,15,232968.0,Cash
+ORD2029,2025-02-18,CUST1029,Bangalore,Laptop,Electronics,5,29924,0,149620.0,Credit Card
+ORD2030,2025-02-10,CUST1030,Chennai,Mobile,Electronics,4,65186,0,260744.0,Debit Card
+ORD2031,2025-02-27,CUST1031,Delhi,Laptop,Electronics,2,22370,10,40266.0,Net Banking
+ORD2032,2025-02-07,CUST1032,Bangalore,Smartwatch,Electronics,5,18475,10,83137.5,Credit Card
+ORD2033,2025-02-27,CUST1033,Hyderabad,Headphones,Electronics,3,33176,0,99528.0,Credit Card
+ORD2034,2025-02-01,CUST1034,Bangalore,Laptop,Electronics,1,10987,5,10437.65,Cash
+ORD2035,2025-02-22,CUST1035,Bangalore,Smartwatch,Electronics,2,22797,15,38754.9,Debit Card
+ORD2036,2025-02-21,CUST1036,Delhi,Tablet,Electronics,1,65023,5,61771.85,Net Banking
+ORD2037,2025-02-27,CUST1037,Chennai,Smartwatch,Electronics,4,70485,0,281940.0,Net Banking
+ORD2038,2025-02-22,CUST1038,Bangalore,Headphones,Electronics,5,57021,10,256594.5,Credit Card
+ORD2039,2025-02-01,CUST1039,Delhi,Tablet,Accessories,1,68505,5,65079.75,Cash
+ORD2040,2025-02-28,CUST1040,Delhi,Laptop,Electronics,4,58190,0,232760.0,Credit Card
+ORD2041,2025-02-28,CUST1041,Delhi,Smartwatch,Accessories,3,7462,0,22386.0,Net Banking
+ORD2042,2025-01-01,CUST1042,Bangalore,Smartwatch,Accessories,4,1587,5,6030.6,Net Banking
+ORD2043,2025-02-20,CUST1043,Bangalore,Mobile,Electronics,5,29916,15,127143.0,Cash
+ORD2044,2025-02-15,CUST1044,Bangalore,Smartwatch,Electronics,2,78251,5,148676.9,Debit Card
+ORD2045,2025-02-20,CUST1045,Bangalore,Mobile,Electronics,2,28059,5,53312.1,Credit Card
+ORD2046,2025-01-24,CUST1046,Hyderabad,Headphones,Accessories,5,37095,5,176201.25,Cash
+ORD2047,2025-01-07,CUST1047,Bangalore,Mobile,Electronics,2,35710,5,67849.0,Cash
+ORD2048,2025-01-30,CUST1048,Mumbai,Laptop,Accessories,2,75151,5,142786.9,Credit Card
+ORD2049,2025-02-03,CUST1049,Mumbai,Laptop,Electronics,3,11388,10,30747.6,Debit Card
